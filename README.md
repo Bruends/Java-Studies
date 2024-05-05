@@ -4,11 +4,11 @@ To be used as a cheat sheet
 - [Enum](Enum.md)
 - [Streams](Streams.md)
 - [Generics](Generics.md)
-- [DB Connection](DB_Connection.md)
+- [JDBC](JDBC.md)
 - [Record](Record.md)
 -  [Lambdas](Lambda.md)
 -  [Algorithms](Algorithms/)
-	- [Binary Search](Algorithms/BinarySearch.md)
+    - [Binary Search](Algorithms/BinarySearch.md)
 	- [Selection Sort](Algorithms/SelectionSort.md)
  
 
