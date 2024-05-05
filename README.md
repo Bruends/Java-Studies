@@ -2,7 +2,7 @@ Java studies repository
 To be used as a cheat sheet
 
 - [Enum](Enum.md)
-- - [Exceptions](Exceptions.md)
+- [Exceptions](Exceptions.md)
 - [Streams](Streams.md)
 - [Generics](Generics.md)
 - [JDBC](JDBC.md)
